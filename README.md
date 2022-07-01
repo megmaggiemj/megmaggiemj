@@ -1,4 +1,11 @@
 ### Hi there 👋
+- I'm Meagan!
+
+- 🔭 I’m currently working on a few updates to Crambles!
+- 🌱 I’m currently learning more about SASS animation
+- 📫 How to reach me: megpjacobs@gmail.comn
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love creating things that make people smile!
 
 <!--
 **megmaggiemj/megmaggiemj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
